@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "phonics-screener-app",
+			"path": "../src/phonics-screener-app"
+		}
+	],
+	"settings": {}
+}
